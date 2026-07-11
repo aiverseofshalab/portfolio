@@ -54,7 +54,6 @@ The palette uses CSS custom properties for light/dark theming:
 
 ## Terminal Mode
 
-Visit [/terminal.html](https://marjoballabani.me/terminal.html) for an interactive terminal-style resume.
 
 Features:
 - Type `help` to see available commands
